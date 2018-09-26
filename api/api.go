@@ -32,7 +32,7 @@ import (
 	"github.com/Peripli/service-manager/api/osb"
 	"github.com/Peripli/service-manager/api/platform"
 	"github.com/Peripli/service-manager/pkg/web"
-	"github.com/Peripli/service-manager/security"
+	"github.com/Peripli/service-manager/pkg/security"
 	"github.com/Peripli/service-manager/storage"
 	osbc "github.com/pmorie/go-open-service-broker-client/v2"
 )
